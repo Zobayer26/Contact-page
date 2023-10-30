@@ -1,0 +1,13 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav ul{
+    text-transform: uppercase;
+    display: flex;
+    gap:10px;
+}
+a{
+    color: #2e2e2e;
+}
