@@ -45,7 +45,7 @@ const Contact = () => {
                 </div>
             </div>
             <div className={styles.ContactImg}>
-                <img src="../../../public/images/Service 24_7-pana 1.svg" alt="HERO Image" />
+                <img src="/images/Service 24_7-pana 1.svg" alt="HERO Image" />
             </div>
         </div>
     );
