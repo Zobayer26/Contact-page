@@ -4,7 +4,7 @@ const Header =()=>{
         <>
         <div className={`container ${styles.nav}`}>
             <div className={styles.logo}>
-            <img src="../../../public/images/Frame 2 1.png" alt=" Logo"/>
+            <img src="/images/Frame 2 1.png" alt=" Logo"/>
             </div>
             <div>
                 <ul>
